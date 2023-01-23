@@ -1,16 +1,13 @@
-### Hi there 👋
+I am a PhD student at KTH Royal Institute of Technology.
 
-<!--
-**Max-Meldrum/Max-Meldrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My research interests lie within the intersection of data management, stream processing, and distributed systems.
+- I'm passionate about building data-intensive systems!
+	- Preferred Language => Rust
+	- Preferred OS => Linux
+- I'm currently working on an embeddable temporal analytical database whose design is highly inspired by stream processing semantics.
+- I'm also a TA in Advanced Distributed Systems and Introduction to Databases at KTH.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Website](https://maxmeldrum.com)
+* [Twitter](https://twitter.com/meldruum)
