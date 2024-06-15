@@ -9,3 +9,5 @@ I am a PhD student at KTH Royal Institute of Technology.
 
 * [Website](https://maxmeldrum.com)
 * [Twitter](https://twitter.com/meldruum)
+
+**NOTE:** I'll be on the job market in the near future and will be looking for remote-friendly opportunities that involve building high-performance systems (preferably in Rust). I can be reached at max@meldrum.se
