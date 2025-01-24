@@ -5,4 +5,4 @@
 ---
 
 * [Website](https://maxmeldrum.com)
-* [Twitter](https://twitter.com/meldruum)
+* [X](https://twitter.com/meldruum)
